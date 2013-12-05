@@ -384,7 +384,7 @@ padding-top: 1em;
 }
 
 #mainpanel dl {
-	padding-bottom:10px;
+	/*padding-bottom:10px;*/
 }
 
 #mainpanel h2 {
@@ -403,7 +403,7 @@ background-image: url('../images/sprite.png');
 }
 
 #mainpanel h2 {
-	padding-bottom:10px;
+	/*padding-bottom:10px;*/
 }
 
 #legend dd {
