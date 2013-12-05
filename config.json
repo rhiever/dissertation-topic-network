@@ -9,7 +9,7 @@
   },
   "text": {
     "title": "Michigan State University Dissertation Topic Network",
-    "more": "Data was provided by Devin Higgins from Michigan State University.",
+    "more": "Data was provided by Devin Higgins from Michigan State University. The code and data for this project are available on GitHub: <a href=\"https://github.com/rhiever/dissertation-topic-network\">https://github.com/rhiever/dissertation-topic-network</a><br /><br />If you would like to visualize similar data from your own university, please <a href=\"http://www.randalolson.com/contact/\">contact Randy Olson</a> to discuss collaboration.",
     "intro": "This is a visualization of Masters and PhD dissertation topics from Michigan State University."
   },
   "legend": {
