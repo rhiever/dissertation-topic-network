@@ -13,9 +13,9 @@
     "intro": "This is a visualization of Masters and PhD dissertation topics from Michigan State University."
   },
   "legend": {
-    "edgeLabel": "Relatedness of topics",
-    "colorLabel": "Cluster",
-    "nodeLabel": "PageRank"
+    "edgeLabel": "Relatedness",
+    "colorLabel": "Cluster of similar topics",
+    "nodeLabel": "Popularity"
   },
   "features": {
     "search": true,
