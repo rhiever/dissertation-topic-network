@@ -447,6 +447,12 @@ background-repeat: no-repeat;
 margin-left: 5px;
 }
 
+#mainpanel .homelink {
+background: url('../images/home.png');
+background-repeat: no-repeat;
+margin-left: 5px;
+}
+
 #copyright {
 	margin:0 auto;	
 	position: fixed;
