@@ -428,7 +428,7 @@
         <viz:position x="-386.42657" y="-253.30678" z="0.0"></viz:position>
         <viz:color r="60" g="107" b="160"></viz:color>
       </node>
-      <node id="Evolution &amp;amp; development" label="Evolution &amp;amp; development">
+      <node id="Evolution &amp;amp; development" label="Evolution &amp; development">
         <attvalues>
           <attvalue for="modularity_class" value="10"></attvalue>
           <attvalue for="pageranks" value="0.00605348912746689"></attvalue>
