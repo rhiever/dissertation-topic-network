@@ -34,7 +34,7 @@
       "minNodeSize": 1
     },
     "drawingProperties": {
-      "labelThreshold": 20,
+      "labelThreshold": 40,
       "hoverFontStyle": "bold",
       "defaultEdgeType": "curve",
       "defaultLabelColor": "#000",
