@@ -4,8 +4,8 @@
   "data": "data.json",
   "logo": {
     "text": "Michigan State University Dissertation Topic Network",
-    "file": "images/MSU-logo.png",
-    "link": "http://www.msu.edu/"
+    "file": "images\/MSU-logo.png",
+    "link": "."
   },
   "text": {
     "title": "Michigan State University Dissertation Topic Network",
