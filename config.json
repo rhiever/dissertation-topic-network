@@ -3,19 +3,19 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "text": "",
+    "text": "Michigan State University Dissertation Topic Network",
     "file": "",
     "link": ""
   },
   "text": {
-    "title": "",
-    "more": "",
-    "intro": ""
+    "title": "Michigan State University Dissertation Topic Network",
+    "more": "Data was provided by Devin Higgins from Michigan State University.",
+    "intro": "This is a visualization of Masters and PhD dissertation topics from Michigan State University."
   },
   "legend": {
-    "edgeLabel": "",
-    "colorLabel": "",
-    "nodeLabel": ""
+    "edgeLabel": "Relatedness of topics",
+    "colorLabel": "Cluster",
+    "nodeLabel": "PageRank"
   },
   "features": {
     "search": true,
@@ -34,7 +34,7 @@
       "minNodeSize": 1
     },
     "drawingProperties": {
-      "labelThreshold": 10,
+      "labelThreshold": 14,
       "hoverFontStyle": "bold",
       "defaultEdgeType": "curve",
       "defaultLabelColor": "#000",
