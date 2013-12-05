@@ -126,7 +126,7 @@ function setupGUI(config) {
 
 		logo = "<img src=\"" + config.logo.file +"\"";
 		if (config.logo.text) logo+=" alt=\"" + config.logo.text + "\"";
-		logo+=" height=\"40px\">";
+		logo+=">";
 	} else if (config.logo.text) {
 		logo="<h1>"+config.logo.text+"</h1>";
 	}
