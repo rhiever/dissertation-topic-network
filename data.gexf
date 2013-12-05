@@ -19,8 +19,8 @@
           <attvalue for="modularity_class" value="5"></attvalue>
           <attvalue for="pageranks" value="0.010271266059513687"></attvalue>
         </attvalues>
-        <viz:size value="29.180866"></viz:size>
-        <viz:position x="-2100.7314" y="-273.69128" z="0.0"></viz:position>
+        <viz:size value="41.786278"></viz:size>
+        <viz:position x="-1091.0194" y="-378.43594" z="0.0"></viz:position>
         <viz:color r="154" g="60" b="160"></viz:color>
       </node>
       <node id="Materials Science" label="Materials Science">
@@ -28,8 +28,8 @@
           <attvalue for="modularity_class" value="5"></attvalue>
           <attvalue for="pageranks" value="0.015366741451344094"></attvalue>
         </attvalues>
-        <viz:size value="40.01995"></viz:size>
-        <viz:position x="-2024.1448" y="-335.00745" z="0.0"></viz:position>
+        <viz:size value="63.13926"></viz:size>
+        <viz:position x="-1015.5651" y="-471.06857" z="0.0"></viz:position>
         <viz:color r="154" g="60" b="160"></viz:color>
       </node>
       <node id="Packaging" label="Packaging">
@@ -37,8 +37,8 @@
           <attvalue for="modularity_class" value="5"></attvalue>
           <attvalue for="pageranks" value="0.005950309241005053"></attvalue>
         </attvalues>
-        <viz:size value="19.989332"></viz:size>
-        <viz:position x="-2143.6174" y="-224.44414" z="0.0"></viz:position>
+        <viz:size value="23.678968"></viz:size>
+        <viz:position x="-1135.3552" y="-437.94608" z="0.0"></viz:position>
         <viz:color r="154" g="60" b="160"></viz:color>
       </node>
       <node id="Rhetoric" label="Rhetoric">
@@ -46,8 +46,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.009974075053417863"></attvalue>
         </attvalues>
-        <viz:size value="28.548681"></viz:size>
-        <viz:position x="619.81036" y="-496.37827" z="0.0"></viz:position>
+        <viz:size value="40.540874"></viz:size>
+        <viz:position x="349.03107" y="-332.1589" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Education" label="Education">
@@ -55,8 +55,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.016149787858780653"></attvalue>
         </attvalues>
-        <viz:size value="41.685646"></viz:size>
-        <viz:position x="843.32996" y="-240.31378" z="0.0"></viz:position>
+        <viz:size value="66.42067"></viz:size>
+        <viz:position x="529.53595" y="-158.29552" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Technical communication" label="Technical communication">
@@ -64,8 +64,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.0031732464452471996"></attvalue>
         </attvalues>
-        <viz:size value="14.081966"></viz:size>
-        <viz:position x="598.6192" y="-576.1681" z="0.0"></viz:position>
+        <viz:size value="12.041468"></viz:size>
+        <viz:position x="379.58368" y="-396.8171" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Communication" label="Communication">
@@ -73,8 +73,8 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="pageranks" value="0.0198015002412886"></attvalue>
         </attvalues>
-        <viz:size value="49.453564"></viz:size>
-        <viz:position x="69.50576" y="-529.2662" z="0.0"></viz:position>
+        <viz:size value="81.72346"></viz:size>
+        <viz:position x="47.26006" y="-388.01486" z="0.0"></viz:position>
         <viz:color r="60" g="160" b="107"></viz:color>
       </node>
       <node id="GLBT studies" label="GLBT studies">
@@ -82,8 +82,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.0024466234576709846"></attvalue>
         </attvalues>
-        <viz:size value="12.536295"></viz:size>
-        <viz:position x="652.33276" y="-602.7696" z="0.0"></viz:position>
+        <viz:size value="8.996497"></viz:size>
+        <viz:position x="336.95917" y="-407.31674" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Pedagogy" label="Pedagogy">
@@ -91,8 +91,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.0028345236290356303"></attvalue>
         </attvalues>
-        <viz:size value="13.361436"></viz:size>
-        <viz:position x="738.8096" y="-493.81616" z="0.0"></viz:position>
+        <viz:size value="10.622024"></viz:size>
+        <viz:position x="430.135" y="-318.91547" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Entomology" label="Entomology">
@@ -100,8 +100,8 @@
           <attvalue for="modularity_class" value="2"></attvalue>
           <attvalue for="pageranks" value="0.006436447406563127"></attvalue>
         </attvalues>
-        <viz:size value="21.023445"></viz:size>
-        <viz:position x="-147.73709" y="34.88551" z="0.0"></viz:position>
+        <viz:size value="25.71617"></viz:size>
+        <viz:position x="-32.654243" y="22.048584" z="0.0"></viz:position>
         <viz:color r="119" g="160" b="60"></viz:color>
       </node>
       <node id="Plant pathology" label="Plant pathology">
@@ -109,8 +109,8 @@
           <attvalue for="modularity_class" value="2"></attvalue>
           <attvalue for="pageranks" value="0.007830185852909488"></attvalue>
         </attvalues>
-        <viz:size value="23.988203"></viz:size>
-        <viz:position x="-132.88043" y="115.276245" z="0.0"></viz:position>
+        <viz:size value="31.556738"></viz:size>
+        <viz:position x="-76.291534" y="81.30086" z="0.0"></viz:position>
         <viz:color r="119" g="160" b="60"></viz:color>
       </node>
       <node id="Ecology" label="Ecology">
@@ -118,8 +118,8 @@
           <attvalue for="modularity_class" value="10"></attvalue>
           <attvalue for="pageranks" value="0.020058380533615087"></attvalue>
         </attvalues>
-        <viz:size value="50.0"></viz:size>
-        <viz:position x="-314.0271" y="0.87676436" z="0.0"></viz:position>
+        <viz:size value="82.79994"></viz:size>
+        <viz:position x="-196.5566" y="-68.65536" z="0.0"></viz:position>
         <viz:color r="60" g="107" b="160"></viz:color>
       </node>
       <node id="Agriculture" label="Agriculture">
@@ -127,8 +127,8 @@
           <attvalue for="modularity_class" value="2"></attvalue>
           <attvalue for="pageranks" value="0.013749146896952984"></attvalue>
         </attvalues>
-        <viz:size value="36.57901"></viz:size>
-        <viz:position x="51.18954" y="68.235565" z="0.0"></viz:position>
+        <viz:size value="56.36061"></viz:size>
+        <viz:position x="56.525055" y="-24.62155" z="0.0"></viz:position>
         <viz:color r="119" g="160" b="60"></viz:color>
       </node>
       <node id="Geography" label="Geography">
@@ -136,8 +136,8 @@
           <attvalue for="modularity_class" value="9"></attvalue>
           <attvalue for="pageranks" value="0.0063139825148700295"></attvalue>
         </attvalues>
-        <viz:size value="20.762938"></viz:size>
-        <viz:position x="-931.0049" y="517.6557" z="0.0"></viz:position>
+        <viz:size value="25.20297"></viz:size>
+        <viz:position x="-543.7222" y="417.49066" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="95"></viz:color>
       </node>
       <node id="Geographic information science and geodesy" label="Geographic information science and geodesy">
@@ -145,8 +145,8 @@
           <attvalue for="modularity_class" value="9"></attvalue>
           <attvalue for="pageranks" value="0.0033415201114855714"></attvalue>
         </attvalues>
-        <viz:size value="14.4399185"></viz:size>
-        <viz:position x="-980.33545" y="560.74603" z="0.0"></viz:position>
+        <viz:size value="12.746633"></viz:size>
+        <viz:position x="-573.8407" y="457.17236" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="95"></viz:color>
       </node>
       <node id="Public health" label="Public health">
@@ -154,8 +154,8 @@
           <attvalue for="modularity_class" value="9"></attvalue>
           <attvalue for="pageranks" value="0.00763493408758978"></attvalue>
         </attvalues>
-        <viz:size value="23.572865"></viz:size>
-        <viz:position x="-855.4079" y="454.80978" z="0.0"></viz:position>
+        <viz:size value="30.738522"></viz:size>
+        <viz:position x="-497.33173" y="363.7848" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="95"></viz:color>
       </node>
       <node id="Political Science" label="Political Science">
@@ -163,8 +163,8 @@
           <attvalue for="modularity_class" value="0"></attvalue>
           <attvalue for="pageranks" value="0.006622516550123694"></attvalue>
         </attvalues>
-        <viz:size value="21.41925"></viz:size>
-        <viz:position x="1103.522" y="-980.777" z="0.0"></viz:position>
+        <viz:size value="26.495907"></viz:size>
+        <viz:position x="1076.0193" y="-291.02066" z="0.0"></viz:position>
         <viz:color r="154" g="160" b="60"></viz:color>
       </node>
       <node id="Public policy" label="Public policy">
@@ -172,8 +172,8 @@
           <attvalue for="modularity_class" value="0"></attvalue>
           <attvalue for="pageranks" value="0.006622516550123694"></attvalue>
         </attvalues>
-        <viz:size value="21.41925"></viz:size>
-        <viz:position x="1236.7401" y="-895.8377" z="0.0"></viz:position>
+        <viz:size value="26.495907"></viz:size>
+        <viz:position x="1213.6417" y="-181.22107" z="0.0"></viz:position>
         <viz:color r="154" g="160" b="60"></viz:color>
       </node>
       <node id="Animal behavior" label="Animal behavior">
@@ -181,8 +181,8 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="pageranks" value="0.006582724711726231"></attvalue>
         </attvalues>
-        <viz:size value="21.334606"></viz:size>
-        <viz:position x="-367.21103" y="-259.15454" z="0.0"></viz:position>
+        <viz:size value="26.329157"></viz:size>
+        <viz:position x="-181.49907" y="-223.04578" z="0.0"></viz:position>
         <viz:color r="60" g="160" b="107"></viz:color>
       </node>
       <node id="Zoology" label="Zoology">
@@ -190,8 +190,8 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="pageranks" value="0.0077662901758214446"></attvalue>
         </attvalues>
-        <viz:size value="23.852283"></viz:size>
-        <viz:position x="-281.38608" y="-172.5116" z="0.0"></viz:position>
+        <viz:size value="31.288977"></viz:size>
+        <viz:position x="-115.69436" y="-192.5206" z="0.0"></viz:position>
         <viz:color r="60" g="160" b="107"></viz:color>
       </node>
       <node id="African American studies" label="African American studies">
@@ -199,8 +199,8 @@
           <attvalue for="modularity_class" value="14"></attvalue>
           <attvalue for="pageranks" value="0.0092796914284907"></attvalue>
         </attvalues>
-        <viz:size value="27.071589"></viz:size>
-        <viz:position x="1885.3284" y="336.35797" z="0.0"></viz:position>
+        <viz:size value="37.631004"></viz:size>
+        <viz:position x="1127.3666" y="55.66051" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="130"></viz:color>
       </node>
       <node id="History" label="History">
@@ -208,8 +208,8 @@
           <attvalue for="modularity_class" value="14"></attvalue>
           <attvalue for="pageranks" value="0.006804770959164338"></attvalue>
         </attvalues>
-        <viz:size value="21.806942"></viz:size>
-        <viz:position x="1864.5122" y="416.9636" z="0.0"></viz:position>
+        <viz:size value="27.259657"></viz:size>
+        <viz:position x="1125.2609" y="127.212494" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="130"></viz:color>
       </node>
       <node id="Epidemiology" label="Epidemiology">
@@ -217,8 +217,8 @@
           <attvalue for="modularity_class" value="9"></attvalue>
           <attvalue for="pageranks" value="0.007713517653384494"></attvalue>
         </attvalues>
-        <viz:size value="23.740025"></viz:size>
-        <viz:position x="-780.1487" y="395.53235" z="0.0"></viz:position>
+        <viz:size value="31.067827"></viz:size>
+        <viz:position x="-447.46182" y="309.47385" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="95"></viz:color>
       </node>
       <node id="Language arts" label="Language arts">
@@ -226,8 +226,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.007910042446155062"></attvalue>
         </attvalues>
-        <viz:size value="24.158073"></viz:size>
-        <viz:position x="1068.3295" y="-127.187325" z="0.0"></viz:position>
+        <viz:size value="31.891382"></viz:size>
+        <viz:position x="599.0662" y="-36.61965" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Literature" label="Literature">
@@ -235,8 +235,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.0031064572880503925"></attvalue>
         </attvalues>
-        <viz:size value="13.939893"></viz:size>
-        <viz:position x="1085.43" y="-42.141876" z="0.0"></viz:position>
+        <viz:size value="11.761583"></viz:size>
+        <viz:position x="604.2208" y="20.321049" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Educational technology" label="Educational technology">
@@ -244,8 +244,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.009109390472787606"></attvalue>
         </attvalues>
-        <viz:size value="26.709326"></viz:size>
-        <viz:position x="1178.9508" y="-100.07023" z="0.0"></viz:position>
+        <viz:size value="36.917347"></viz:size>
+        <viz:position x="679.4829" y="8.80735" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Physics" label="Physics">
@@ -253,8 +253,8 @@
           <attvalue for="modularity_class" value="7"></attvalue>
           <attvalue for="pageranks" value="0.00808769471831773"></attvalue>
         </attvalues>
-        <viz:size value="24.535976"></viz:size>
-        <viz:position x="-1458.237" y="-468.31656" z="0.0"></viz:position>
+        <viz:size value="32.63585"></viz:size>
+        <viz:position x="-805.162" y="-251.77672" z="0.0"></viz:position>
         <viz:color r="83" g="60" b="160"></viz:color>
       </node>
       <node id="Mechanical engineering" label="Mechanical engineering">
@@ -262,8 +262,8 @@
           <attvalue for="modularity_class" value="7"></attvalue>
           <attvalue for="pageranks" value="0.012012038869679068"></attvalue>
         </attvalues>
-        <viz:size value="32.883835"></viz:size>
-        <viz:position x="-1505.8707" y="-359.6513" z="0.0"></viz:position>
+        <viz:size value="49.08112"></viz:size>
+        <viz:position x="-782.37024" y="-359.02344" z="0.0"></viz:position>
         <viz:color r="83" g="60" b="160"></viz:color>
       </node>
       <node id="Biophysics" label="Biophysics">
@@ -271,8 +271,8 @@
           <attvalue for="modularity_class" value="7"></attvalue>
           <attvalue for="pageranks" value="0.0028377707850937746"></attvalue>
         </attvalues>
-        <viz:size value="13.368343"></viz:size>
-        <viz:position x="-1515.9905" y="-521.54474" z="0.0"></viz:position>
+        <viz:size value="10.635632"></viz:size>
+        <viz:position x="-863.9496" y="-248.44174" z="0.0"></viz:position>
         <viz:color r="83" g="60" b="160"></viz:color>
       </node>
       <node id="Engineering" label="Engineering">
@@ -280,8 +280,8 @@
           <attvalue for="modularity_class" value="7"></attvalue>
           <attvalue for="pageranks" value="0.012902440428456423"></attvalue>
         </attvalues>
-        <viz:size value="34.777897"></viz:size>
-        <viz:position x="-1297.1334" y="-489.9613" z="0.0"></viz:position>
+        <viz:size value="52.81242"></viz:size>
+        <viz:position x="-749.40894" y="-142.9924" z="0.0"></viz:position>
         <viz:color r="83" g="60" b="160"></viz:color>
       </node>
       <node id="Individual &amp;amp; family studies" label="Individual &amp; family studies">
@@ -289,8 +289,8 @@
           <attvalue for="modularity_class" value="10"></attvalue>
           <attvalue for="pageranks" value="0.007873236803668988"></attvalue>
         </attvalues>
-        <viz:size value="24.07978"></viz:size>
-        <viz:position x="167.36446" y="271.854" z="0.0"></viz:position>
+        <viz:size value="31.737146"></viz:size>
+        <viz:position x="172.2692" y="-19.60079" z="0.0"></viz:position>
         <viz:color r="60" g="107" b="160"></viz:color>
       </node>
       <node id="Home economics" label="Home economics">
@@ -298,8 +298,8 @@
           <attvalue for="modularity_class" value="10"></attvalue>
           <attvalue for="pageranks" value="0.0026664438110829396"></attvalue>
         </attvalues>
-        <viz:size value="13.003897"></viz:size>
-        <viz:position x="233.25055" y="324.067" z="0.0"></viz:position>
+        <viz:size value="9.917672"></viz:size>
+        <viz:position x="180.06512" y="-82.11816" z="0.0"></viz:position>
         <viz:color r="60" g="107" b="160"></viz:color>
       </node>
       <node id="Developmental psychology" label="Developmental psychology">
@@ -307,8 +307,8 @@
           <attvalue for="modularity_class" value="10"></attvalue>
           <attvalue for="pageranks" value="0.0026664438110829396"></attvalue>
         </attvalues>
-        <viz:size value="13.003897"></viz:size>
-        <viz:position x="187.14111" y="353.368" z="0.0"></viz:position>
+        <viz:size value="9.917672"></viz:size>
+        <viz:position x="213.82678" y="-65.40444" z="0.0"></viz:position>
         <viz:color r="60" g="107" b="160"></viz:color>
       </node>
       <node id="Psychology" label="Psychology">
@@ -316,8 +316,8 @@
           <attvalue for="modularity_class" value="8"></attvalue>
           <attvalue for="pageranks" value="0.015540955486059991"></attvalue>
         </attvalues>
-        <viz:size value="40.39054"></viz:size>
-        <viz:position x="523.0438" y="315.29437" z="0.0"></viz:position>
+        <viz:size value="63.86932"></viz:size>
+        <viz:position x="317.58804" y="162.39407" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="60"></viz:color>
       </node>
       <node id="Biomechanics" label="Biomechanics">
@@ -325,8 +325,8 @@
           <attvalue for="modularity_class" value="7"></attvalue>
           <attvalue for="pageranks" value="0.003141822550545898"></attvalue>
         </attvalues>
-        <viz:size value="14.015121"></viz:size>
-        <viz:position x="-1438.7603" y="-293.4967" z="0.0"></viz:position>
+        <viz:size value="11.909783"></viz:size>
+        <viz:position x="-696.6639" y="-370.52695" z="0.0"></viz:position>
         <viz:color r="83" g="60" b="160"></viz:color>
       </node>
       <node id="Electrical engineering" label="Electrical engineering">
@@ -334,8 +334,8 @@
           <attvalue for="modularity_class" value="7"></attvalue>
           <attvalue for="pageranks" value="0.010371242414013557"></attvalue>
         </attvalues>
-        <viz:size value="29.393536"></viz:size>
-        <viz:position x="-1179.0753" y="-300.27023" z="0.0"></viz:position>
+        <viz:size value="42.205235"></viz:size>
+        <viz:position x="-589.6787" y="-320.24838" z="0.0"></viz:position>
         <viz:color r="83" g="60" b="160"></viz:color>
       </node>
       <node id="Biomedical engineering" label="Biomedical engineering">
@@ -343,8 +343,8 @@
           <attvalue for="modularity_class" value="7"></attvalue>
           <attvalue for="pageranks" value="0.008768655574392416"></attvalue>
         </attvalues>
-        <viz:size value="25.984514"></viz:size>
-        <viz:position x="-1312.5668" y="-397.5308" z="0.0"></viz:position>
+        <viz:size value="35.48947"></viz:size>
+        <viz:position x="-690.6542" y="-295.6247" z="0.0"></viz:position>
         <viz:color r="83" g="60" b="160"></viz:color>
       </node>
       <node id="Automotive engineering" label="Automotive engineering">
@@ -352,8 +352,8 @@
           <attvalue for="modularity_class" value="7"></attvalue>
           <attvalue for="pageranks" value="0.001860696983627268"></attvalue>
         </attvalues>
-        <viz:size value="11.289913"></viz:size>
-        <viz:position x="-1634.3572" y="-301.3997" z="0.0"></viz:position>
+        <viz:size value="6.541127"></viz:size>
+        <viz:position x="-844.82465" y="-413.60114" z="0.0"></viz:position>
         <viz:color r="83" g="60" b="160"></viz:color>
       </node>
       <node id="Plant sciences" label="Plant sciences">
@@ -361,8 +361,8 @@
           <attvalue for="modularity_class" value="2"></attvalue>
           <attvalue for="pageranks" value="0.007180695145215837"></attvalue>
         </attvalues>
-        <viz:size value="22.606606"></viz:size>
-        <viz:position x="-55.007183" y="175.67659" z="0.0"></viz:position>
+        <viz:size value="28.834993"></viz:size>
+        <viz:position x="-1.0048609" y="92.18684" z="0.0"></viz:position>
         <viz:color r="119" g="160" b="60"></viz:color>
       </node>
       <node id="Horticulture" label="Horticulture">
@@ -370,8 +370,8 @@
           <attvalue for="modularity_class" value="2"></attvalue>
           <attvalue for="pageranks" value="0.006432780008768502"></attvalue>
         </attvalues>
-        <viz:size value="21.015644"></viz:size>
-        <viz:position x="-60.019207" y="80.86022" z="0.0"></viz:position>
+        <viz:size value="25.700802"></viz:size>
+        <viz:position x="-91.943825" y="14.271523" z="0.0"></viz:position>
         <viz:color r="119" g="160" b="60"></viz:color>
       </node>
       <node id="Plant biology" label="Plant biology">
@@ -379,8 +379,8 @@
           <attvalue for="modularity_class" value="12"></attvalue>
           <attvalue for="pageranks" value="0.007897541302084057"></attvalue>
         </attvalues>
-        <viz:size value="24.131481"></viz:size>
-        <viz:position x="-277.38846" y="198.74171" z="0.0"></viz:position>
+        <viz:size value="31.838997"></viz:size>
+        <viz:position x="-160.33688" y="107.584755" z="0.0"></viz:position>
         <viz:color r="60" g="142" b="160"></viz:color>
       </node>
       <node id="Educational psychology" label="Educational psychology">
@@ -388,8 +388,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.007482290376835317"></attvalue>
         </attvalues>
-        <viz:size value="23.24816"></viz:size>
-        <viz:position x="1271.884" y="-168.7" z="0.0"></viz:position>
+        <viz:size value="30.098854"></viz:size>
+        <viz:position x="750.9879" y="-15.299476" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Management" label="Management">
@@ -397,8 +397,8 @@
           <attvalue for="modularity_class" value="8"></attvalue>
           <attvalue for="pageranks" value="0.009246918719499828"></attvalue>
         </attvalues>
-        <viz:size value="27.001875"></viz:size>
-        <viz:position x="607.03925" y="502.617" z="0.0"></viz:position>
+        <viz:size value="37.493668"></viz:size>
+        <viz:position x="343.923" y="305.1572" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="60"></viz:color>
       </node>
       <node id="Organizational behavior" label="Organizational behavior">
@@ -406,8 +406,8 @@
           <attvalue for="modularity_class" value="8"></attvalue>
           <attvalue for="pageranks" value="0.013143854610688878"></attvalue>
         </attvalues>
-        <viz:size value="35.29143"></viz:size>
-        <viz:position x="774.37244" y="470.5473" z="0.0"></viz:position>
+        <viz:size value="53.82408"></viz:size>
+        <viz:position x="442.86215" y="269.37497" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="60"></viz:color>
       </node>
       <node id="Cognitive psychology" label="Cognitive psychology">
@@ -415,8 +415,8 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="pageranks" value="0.005668842033149204"></attvalue>
         </attvalues>
-        <viz:size value="19.390594"></viz:size>
-        <viz:position x="-342.027" y="-367.0106" z="0.0"></viz:position>
+        <viz:size value="22.499456"></viz:size>
+        <viz:position x="-177.02957" y="-312.4877" z="0.0"></viz:position>
         <viz:color r="60" g="160" b="107"></viz:color>
       </node>
       <node id="Computer science" label="Computer science">
@@ -424,8 +424,8 @@
           <attvalue for="modularity_class" value="10"></attvalue>
           <attvalue for="pageranks" value="0.011023837597969145"></attvalue>
         </attvalues>
-        <viz:size value="30.781734"></viz:size>
-        <viz:position x="-728.36523" y="-254.4069" z="0.0"></viz:position>
+        <viz:size value="44.939987"></viz:size>
+        <viz:position x="-386.42657" y="-253.30678" z="0.0"></viz:position>
         <viz:color r="60" g="107" b="160"></viz:color>
       </node>
       <node id="Evolution &amp;amp; development" label="Evolution &amp;amp; development">
@@ -433,8 +433,8 @@
           <attvalue for="modularity_class" value="10"></attvalue>
           <attvalue for="pageranks" value="0.00605348912746689"></attvalue>
         </attvalues>
-        <viz:size value="20.208817"></viz:size>
-        <viz:position x="-532.22687" y="-80.62612" z="0.0"></viz:position>
+        <viz:size value="24.111353"></viz:size>
+        <viz:position x="-342.86218" y="-91.24054" z="0.0"></viz:position>
         <viz:color r="60" g="107" b="160"></viz:color>
       </node>
       <node id="Microbiology" label="Microbiology">
@@ -442,8 +442,8 @@
           <attvalue for="modularity_class" value="9"></attvalue>
           <attvalue for="pageranks" value="0.011856938039341602"></attvalue>
         </attvalues>
-        <viz:size value="32.5539"></viz:size>
-        <viz:position x="-708.8526" y="105.32215" z="0.0"></viz:position>
+        <viz:size value="48.431152"></viz:size>
+        <viz:position x="-355.45325" y="102.20124" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="95"></viz:color>
       </node>
       <node id="Organization theory" label="Organization theory">
@@ -451,8 +451,8 @@
           <attvalue for="modularity_class" value="8"></attvalue>
           <attvalue for="pageranks" value="0.0071569066426362595"></attvalue>
         </attvalues>
-        <viz:size value="22.556004"></viz:size>
-        <viz:position x="770.70264" y="625.2528" z="0.0"></viz:position>
+        <viz:size value="28.735308"></viz:size>
+        <viz:position x="490.4608" y="359.2876" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="60"></viz:color>
       </node>
       <node id="Forestry" label="Forestry">
@@ -460,8 +460,8 @@
           <attvalue for="modularity_class" value="10"></attvalue>
           <attvalue for="pageranks" value="0.005403009204183769"></attvalue>
         </attvalues>
-        <viz:size value="18.825115"></viz:size>
-        <viz:position x="-418.21353" y="-4.2363" z="0.0"></viz:position>
+        <viz:size value="21.385464"></viz:size>
+        <viz:position x="-314.25793" y="-39.42828" z="0.0"></viz:position>
         <viz:color r="60" g="107" b="160"></viz:color>
       </node>
       <node id="Natural resource management" label="Natural resource management">
@@ -469,8 +469,8 @@
           <attvalue for="modularity_class" value="10"></attvalue>
           <attvalue for="pageranks" value="0.007470838309122347"></attvalue>
         </attvalues>
-        <viz:size value="23.223799"></viz:size>
-        <viz:position x="-540.4243" y="49.151577" z="0.0"></viz:position>
+        <viz:size value="30.050863"></viz:size>
+        <viz:position x="-372.5554" y="-26.308666" z="0.0"></viz:position>
         <viz:color r="60" g="107" b="160"></viz:color>
       </node>
       <node id="Mass communication" label="Mass communication">
@@ -478,8 +478,8 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="pageranks" value="0.005484835544907381"></attvalue>
         </attvalues>
-        <viz:size value="18.999176"></viz:size>
-        <viz:position x="152.22263" y="-700.4054" z="0.0"></viz:position>
+        <viz:size value="21.728363"></viz:size>
+        <viz:position x="-10.589551" y="-485.9605" z="0.0"></viz:position>
         <viz:color r="60" g="160" b="107"></viz:color>
       </node>
       <node id="Criminology" label="Criminology">
@@ -487,8 +487,8 @@
           <attvalue for="modularity_class" value="8"></attvalue>
           <attvalue for="pageranks" value="0.006423949130967508"></attvalue>
         </attvalues>
-        <viz:size value="20.996857"></viz:size>
-        <viz:position x="407.2778" y="225.03731" z="0.0"></viz:position>
+        <viz:size value="25.663792"></viz:size>
+        <viz:position x="221.41614" y="104.7552" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="60"></viz:color>
       </node>
       <node id="Biology" label="Biology">
@@ -496,8 +496,8 @@
           <attvalue for="modularity_class" value="8"></attvalue>
           <attvalue for="pageranks" value="0.010156795917901458"></attvalue>
         </attvalues>
-        <viz:size value="28.937365"></viz:size>
-        <viz:position x="203.41675" y="119.47512" z="0.0"></viz:position>
+        <viz:size value="41.30658"></viz:size>
+        <viz:position x="114.8533" y="98.499825" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="60"></viz:color>
       </node>
       <node id="Sustainability" label="Sustainability">
@@ -505,8 +505,8 @@
           <attvalue for="modularity_class" value="7"></attvalue>
           <attvalue for="pageranks" value="0.011006380713843253"></attvalue>
         </attvalues>
-        <viz:size value="30.7446"></viz:size>
-        <viz:position x="-1115.7826" y="-545.15283" z="0.0"></viz:position>
+        <viz:size value="44.866833"></viz:size>
+        <viz:position x="-761.42633" y="7.642014" z="0.0"></viz:position>
         <viz:color r="83" g="60" b="160"></viz:color>
       </node>
       <node id="Environmental education" label="Environmental education">
@@ -514,8 +514,8 @@
           <attvalue for="modularity_class" value="7"></attvalue>
           <attvalue for="pageranks" value="0.0023405621902041693"></attvalue>
         </attvalues>
-        <viz:size value="12.310682"></viz:size>
-        <viz:position x="-1172.9819" y="-640.1706" z="0.0"></viz:position>
+        <viz:size value="8.55204"></viz:size>
+        <viz:position x="-826.6971" y="48.71126" z="0.0"></viz:position>
         <viz:color r="83" g="60" b="160"></viz:color>
       </node>
       <node id="Water resources management" label="Water resources management">
@@ -523,8 +523,8 @@
           <attvalue for="modularity_class" value="7"></attvalue>
           <attvalue for="pageranks" value="0.011292375828627296"></attvalue>
         </attvalues>
-        <viz:size value="31.352968"></viz:size>
-        <viz:position x="-1015.82837" y="-512.77435" z="0.0"></viz:position>
+        <viz:size value="46.065315"></viz:size>
+        <viz:position x="-716.3031" y="109.27543" z="0.0"></viz:position>
         <viz:color r="83" g="60" b="160"></viz:color>
       </node>
       <node id="Design" label="Design">
@@ -532,8 +532,8 @@
           <attvalue for="modularity_class" value="7"></attvalue>
           <attvalue for="pageranks" value="0.0023405621902041693"></attvalue>
         </attvalues>
-        <viz:size value="12.310682"></viz:size>
-        <viz:position x="-1119.8046" y="-658.02216" z="0.0"></viz:position>
+        <viz:size value="8.55204"></viz:size>
+        <viz:position x="-838.10504" y="8.35232" z="0.0"></viz:position>
         <viz:color r="83" g="60" b="160"></viz:color>
       </node>
       <node id="Environmental engineering" label="Environmental engineering">
@@ -541,8 +541,8 @@
           <attvalue for="modularity_class" value="7"></attvalue>
           <attvalue for="pageranks" value="0.010568502661122036"></attvalue>
         </attvalues>
-        <viz:size value="29.813145"></viz:size>
-        <viz:position x="-995.9605" y="-386.75253" z="0.0"></viz:position>
+        <viz:size value="43.031864"></viz:size>
+        <viz:position x="-635.61206" y="31.60929" z="0.0"></viz:position>
         <viz:color r="83" g="60" b="160"></viz:color>
       </node>
       <node id="Endocrinology" label="Endocrinology">
@@ -550,8 +550,8 @@
           <attvalue for="modularity_class" value="12"></attvalue>
           <attvalue for="pageranks" value="0.005533621476755933"></attvalue>
         </attvalues>
-        <viz:size value="19.102955"></viz:size>
-        <viz:position x="187.83606" y="515.7382" z="0.0"></viz:position>
+        <viz:size value="21.932808"></viz:size>
+        <viz:position x="149.32086" y="290.74152" z="0.0"></viz:position>
         <viz:color r="60" g="142" b="160"></viz:color>
       </node>
       <node id="Neurosciences" label="Neurosciences">
@@ -559,8 +559,8 @@
           <attvalue for="modularity_class" value="12"></attvalue>
           <attvalue for="pageranks" value="0.011536157963680413"></attvalue>
         </attvalues>
-        <viz:size value="31.87154"></viz:size>
-        <viz:position x="65.17199" y="462.11395" z="0.0"></viz:position>
+        <viz:size value="47.0869"></viz:size>
+        <viz:position x="67.95907" y="288.09457" z="0.0"></viz:position>
         <viz:color r="60" g="142" b="160"></viz:color>
       </node>
       <node id="Genetics" label="Genetics">
@@ -568,8 +568,8 @@
           <attvalue for="modularity_class" value="12"></attvalue>
           <attvalue for="pageranks" value="0.007957732055836194"></attvalue>
         </attvalues>
-        <viz:size value="24.25952"></viz:size>
-        <viz:position x="-134.36137" y="381.96323" z="0.0"></viz:position>
+        <viz:size value="32.091232"></viz:size>
+        <viz:position x="-82.03354" y="278.07715" z="0.0"></viz:position>
         <viz:color r="60" g="142" b="160"></viz:color>
       </node>
       <node id="Soil sciences" label="Soil sciences">
@@ -577,8 +577,8 @@
           <attvalue for="modularity_class" value="2"></attvalue>
           <attvalue for="pageranks" value="0.0077140973753850855"></attvalue>
         </attvalues>
-        <viz:size value="23.74126"></viz:size>
-        <viz:position x="-33.277447" y="-0.631678" z="0.0"></viz:position>
+        <viz:size value="31.070263"></viz:size>
+        <viz:position x="-49.494366" y="-50.28962" z="0.0"></viz:position>
         <viz:color r="119" g="160" b="60"></viz:color>
       </node>
       <node id="Molecular biology" label="Molecular biology">
@@ -586,8 +586,8 @@
           <attvalue for="modularity_class" value="12"></attvalue>
           <attvalue for="pageranks" value="0.010473214452251472"></attvalue>
         </attvalues>
-        <viz:size value="29.610449"></viz:size>
-        <viz:position x="-204.94498" y="274.4603" z="0.0"></viz:position>
+        <viz:size value="42.632553"></viz:size>
+        <viz:position x="-89.134125" y="181.94675" z="0.0"></viz:position>
         <viz:color r="60" g="142" b="160"></viz:color>
       </node>
       <node id="Cellular biology" label="Cellular biology">
@@ -595,8 +595,8 @@
           <attvalue for="modularity_class" value="12"></attvalue>
           <attvalue for="pageranks" value="0.0067704822539932236"></attvalue>
         </attvalues>
-        <viz:size value="21.734003"></viz:size>
-        <viz:position x="-285.8176" y="392.3222" z="0.0"></viz:position>
+        <viz:size value="27.115969"></viz:size>
+        <viz:position x="-159.28142" y="257.07147" z="0.0"></viz:position>
         <viz:color r="60" g="142" b="160"></viz:color>
       </node>
       <node id="Agriculture economics" label="Agriculture economics">
@@ -604,8 +604,8 @@
           <attvalue for="modularity_class" value="11"></attvalue>
           <attvalue for="pageranks" value="0.005020676932887869"></attvalue>
         </attvalues>
-        <viz:size value="18.011818"></viz:size>
-        <viz:position x="169.14209" y="-153.44484" z="0.0"></viz:position>
+        <viz:size value="19.783268"></viz:size>
+        <viz:position x="107.06616" y="-142.64258" z="0.0"></viz:position>
         <viz:color r="60" g="72" b="160"></viz:color>
       </node>
       <node id="Agronomy" label="Agronomy">
@@ -613,8 +613,8 @@
           <attvalue for="modularity_class" value="2"></attvalue>
           <attvalue for="pageranks" value="0.005650917680938478"></attvalue>
         </attvalues>
-        <viz:size value="19.352465"></viz:size>
-        <viz:position x="56.694202" y="-41.345024" z="0.0"></viz:position>
+        <viz:size value="22.424341"></viz:size>
+        <viz:position x="-1.6682166" y="-100.284615" z="0.0"></viz:position>
         <viz:color r="119" g="160" b="60"></viz:color>
       </node>
       <node id="Science education" label="Science education">
@@ -622,8 +622,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.008461226443833354"></attvalue>
         </attvalues>
-        <viz:size value="25.330551"></viz:size>
-        <viz:position x="1221.3474" y="-653.9523" z="0.0"></viz:position>
+        <viz:size value="34.201164"></viz:size>
+        <viz:position x="659.58636" y="-434.46298" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Secondary education" label="Secondary education">
@@ -631,8 +631,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.009402886073714825"></attvalue>
         </attvalues>
-        <viz:size value="27.333649"></viz:size>
-        <viz:position x="1243.3033" y="-743.83154" z="0.0"></viz:position>
+        <viz:size value="38.147263"></viz:size>
+        <viz:position x="718.5327" y="-488.48724" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Web studies" label="Web studies">
@@ -640,8 +640,8 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="pageranks" value="0.002984664262505733"></attvalue>
         </attvalues>
-        <viz:size value="13.680815"></viz:size>
-        <viz:position x="-32.352867" y="-680.96454" z="0.0"></viz:position>
+        <viz:size value="11.2512"></viz:size>
+        <viz:position x="41.60574" y="-497.1175" z="0.0"></viz:position>
         <viz:color r="60" g="160" b="107"></viz:color>
       </node>
       <node id="Educational administration" label="Educational administration">
@@ -649,8 +649,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.005538275912440284"></attvalue>
         </attvalues>
-        <viz:size value="19.112854"></viz:size>
-        <viz:position x="1320.0117" y="-370.54425" z="0.0"></viz:position>
+        <viz:size value="21.952309"></viz:size>
+        <viz:position x="871.198" y="-167.60268" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Education policy" label="Education policy">
@@ -658,8 +658,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.012987007024216892"></attvalue>
         </attvalues>
-        <viz:size value="34.957787"></viz:size>
-        <viz:position x="1248.7668" y="-360.22592" z="0.0"></viz:position>
+        <viz:size value="53.1668"></viz:size>
+        <viz:position x="792.94604" y="-197.99434" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Higher education administration" label="Higher education administration">
@@ -667,8 +667,8 @@
           <attvalue for="modularity_class" value="8"></attvalue>
           <attvalue for="pageranks" value="0.011165260162394898"></attvalue>
         </attvalues>
-        <viz:size value="31.08257"></viz:size>
-        <viz:position x="910.4755" y="887.96564" z="0.0"></viz:position>
+        <viz:size value="45.53263"></viz:size>
+        <viz:position x="546.38684" y="480.1102" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="60"></viz:color>
       </node>
       <node id="Educational leadership" label="Educational leadership">
@@ -676,8 +676,8 @@
           <attvalue for="modularity_class" value="8"></attvalue>
           <attvalue for="pageranks" value="0.0033663949538507423"></attvalue>
         </attvalues>
-        <viz:size value="14.492832"></viz:size>
-        <viz:position x="978.55853" y="1001.06964" z="0.0"></viz:position>
+        <viz:size value="12.850873"></viz:size>
+        <viz:position x="614.5644" y="513.19147" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="60"></viz:color>
       </node>
       <node id="Higher education" label="Higher education">
@@ -685,8 +685,8 @@
           <attvalue for="modularity_class" value="8"></attvalue>
           <attvalue for="pageranks" value="0.0033663949538507423"></attvalue>
         </attvalues>
-        <viz:size value="14.492832"></viz:size>
-        <viz:position x="802.1501" y="995.53864" z="0.0"></viz:position>
+        <viz:size value="12.850873"></viz:size>
+        <viz:position x="517.2098" y="550.34686" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="60"></viz:color>
       </node>
       <node id="Women's studies" label="Women's studies">
@@ -694,8 +694,8 @@
           <attvalue for="modularity_class" value="8"></attvalue>
           <attvalue for="pageranks" value="0.0033663949538507423"></attvalue>
         </attvalues>
-        <viz:size value="14.492832"></viz:size>
-        <viz:position x="1094.9783" y="932.0097" z="0.0"></viz:position>
+        <viz:size value="12.850873"></viz:size>
+        <viz:position x="571.4323" y="552.4374" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="60"></viz:color>
       </node>
       <node id="Kinesiology" label="Kinesiology">
@@ -703,8 +703,8 @@
           <attvalue for="modularity_class" value="8"></attvalue>
           <attvalue for="pageranks" value="0.001756703457038906"></attvalue>
         </attvalues>
-        <viz:size value="11.068699"></viz:size>
-        <viz:position x="520.0142" y="446.66068" z="0.0"></viz:position>
+        <viz:size value="6.105335"></viz:size>
+        <viz:position x="280.00006" y="259.41507" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="60"></viz:color>
       </node>
       <node id="Sociology" label="Sociology">
@@ -712,8 +712,8 @@
           <attvalue for="modularity_class" value="8"></attvalue>
           <attvalue for="pageranks" value="0.012371680943341538"></attvalue>
         </attvalues>
-        <viz:size value="33.648865"></viz:size>
-        <viz:position x="669.0631" y="179.64706" z="0.0"></viz:position>
+        <viz:size value="50.588226"></viz:size>
+        <viz:position x="401.3307" y="19.431458" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="60"></viz:color>
       </node>
       <node id="Computer engineering" label="Computer engineering">
@@ -721,8 +721,8 @@
           <attvalue for="modularity_class" value="10"></attvalue>
           <attvalue for="pageranks" value="0.005958759123208721"></attvalue>
         </attvalues>
-        <viz:size value="20.007305"></viz:size>
-        <viz:position x="-832.1245" y="-331.42746" z="0.0"></viz:position>
+        <viz:size value="23.714376"></viz:size>
+        <viz:position x="-457.2311" y="-293.8128" z="0.0"></viz:position>
         <viz:color r="60" g="107" b="160"></viz:color>
       </node>
       <node id="Linguistics" label="Linguistics">
@@ -730,8 +730,8 @@
           <attvalue for="modularity_class" value="3"></attvalue>
           <attvalue for="pageranks" value="0.009633354512744444"></attvalue>
         </attvalues>
-        <viz:size value="27.823902"></viz:size>
-        <viz:position x="1798.5387" y="-367.13965" z="0.0"></viz:position>
+        <viz:size value="39.11306"></viz:size>
+        <viz:position x="947.9546" y="-4.623024" z="0.0"></viz:position>
         <viz:color r="83" g="160" b="60"></viz:color>
       </node>
       <node id="Language" label="Language">
@@ -739,8 +739,8 @@
           <attvalue for="modularity_class" value="3"></attvalue>
           <attvalue for="pageranks" value="0.0028843144549901066"></attvalue>
         </attvalues>
-        <viz:size value="13.467351"></viz:size>
-        <viz:position x="1835.9224" y="-416.9588" z="0.0"></viz:position>
+        <viz:size value="10.830676"></viz:size>
+        <viz:position x="1005.01575" y="16.886183" z="0.0"></viz:position>
         <viz:color r="83" g="160" b="60"></viz:color>
       </node>
       <node id="Foreign language instruction" label="Foreign language instruction">
@@ -748,8 +748,8 @@
           <attvalue for="modularity_class" value="3"></attvalue>
           <attvalue for="pageranks" value="0.0076844010081636655"></attvalue>
         </attvalues>
-        <viz:size value="23.67809"></viz:size>
-        <viz:position x="1684.6671" y="-309.55188" z="0.0"></viz:position>
+        <viz:size value="30.945814"></viz:size>
+        <viz:position x="875.08405" y="-30.87444" z="0.0"></viz:position>
         <viz:color r="83" g="160" b="60"></viz:color>
       </node>
       <node id="Educational evaluation" label="Educational evaluation">
@@ -757,8 +757,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.006877064405741535"></attvalue>
         </attvalues>
-        <viz:size value="21.960722"></viz:size>
-        <viz:position x="1205.1444" y="-281.1488" z="0.0"></viz:position>
+        <viz:size value="27.562605"></viz:size>
+        <viz:position x="697.82776" y="-198.07036" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Educational tests &amp;amp; measurements" label="Educational tests &amp;amp; measurements">
@@ -766,8 +766,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.010308815479142436"></attvalue>
         </attvalues>
-        <viz:size value="29.260738"></viz:size>
-        <viz:position x="1128.0509" y="-229.06996" z="0.0"></viz:position>
+        <viz:size value="41.943626"></viz:size>
+        <viz:position x="693.3425" y="-110.63424" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="English as a second language" label="English as a second language">
@@ -775,8 +775,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.0018130006894331624"></attvalue>
         </attvalues>
-        <viz:size value="11.188454"></viz:size>
-        <viz:position x="1135.9832" y="-329.43924" z="0.0"></viz:position>
+        <viz:size value="6.341252"></viz:size>
+        <viz:position x="655.7082" y="-170.22818" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Organic chemistry" label="Organic chemistry">
@@ -784,8 +784,8 @@
           <attvalue for="modularity_class" value="5"></attvalue>
           <attvalue for="pageranks" value="0.0057086735808817"></attvalue>
         </attvalues>
-        <viz:size value="19.475323"></viz:size>
-        <viz:position x="-2480.7158" y="-373.77087" z="0.0"></viz:position>
+        <viz:size value="22.666372"></viz:size>
+        <viz:position x="-1311.7747" y="-524.3394" z="0.0"></viz:position>
         <viz:color r="154" g="60" b="160"></viz:color>
       </node>
       <node id="Chemistry" label="Chemistry">
@@ -793,8 +793,8 @@
           <attvalue for="modularity_class" value="5"></attvalue>
           <attvalue for="pageranks" value="0.013053748357951419"></attvalue>
         </attvalues>
-        <viz:size value="35.09976"></viz:size>
-        <viz:position x="-2365.418" y="-267.61002" z="0.0"></viz:position>
+        <viz:size value="53.446484"></viz:size>
+        <viz:position x="-1232.6344" y="-555.2714" z="0.0"></viz:position>
         <viz:color r="154" g="60" b="160"></viz:color>
       </node>
       <node id="Biochemistry" label="Biochemistry">
@@ -802,8 +802,8 @@
           <attvalue for="modularity_class" value="12"></attvalue>
           <attvalue for="pageranks" value="0.007522101171629446"></attvalue>
         </attvalues>
-        <viz:size value="23.332844"></viz:size>
-        <viz:position x="-330.18835" y="316.95035" z="0.0"></viz:position>
+        <viz:size value="30.265682"></viz:size>
+        <viz:position x="-187.51985" y="186.22661" z="0.0"></viz:position>
         <viz:color r="60" g="142" b="160"></viz:color>
       </node>
       <node id="Mental health" label="Mental health">
@@ -811,8 +811,8 @@
           <attvalue for="modularity_class" value="6"></attvalue>
           <attvalue for="pageranks" value="0.006622516550123694"></attvalue>
         </attvalues>
-        <viz:size value="21.41925"></viz:size>
-        <viz:position x="44.506794" y="917.4794" z="0.0"></viz:position>
+        <viz:size value="26.495907"></viz:size>
+        <viz:position x="-107.495384" y="476.54172" z="0.0"></viz:position>
         <viz:color r="60" g="160" b="142"></viz:color>
       </node>
       <node id="Behavioral sciences" label="Behavioral sciences">
@@ -820,8 +820,8 @@
           <attvalue for="modularity_class" value="6"></attvalue>
           <attvalue for="pageranks" value="0.006622516550123694"></attvalue>
         </attvalues>
-        <viz:size value="21.41925"></viz:size>
-        <viz:position x="-161.60513" y="811.0087" z="0.0"></viz:position>
+        <viz:size value="26.495907"></viz:size>
+        <viz:position x="-181.87299" y="478.11313" z="0.0"></viz:position>
         <viz:color r="60" g="160" b="142"></viz:color>
       </node>
       <node id="Civil engineering" label="Civil engineering">
@@ -829,8 +829,8 @@
           <attvalue for="modularity_class" value="7"></attvalue>
           <attvalue for="pageranks" value="0.006510603943464896"></attvalue>
         </attvalues>
-        <viz:size value="21.18119"></viz:size>
-        <viz:position x="-1167.7222" y="-447.41916" z="0.0"></viz:position>
+        <viz:size value="26.026928"></viz:size>
+        <viz:position x="-687.4684" y="-74.18235" z="0.0"></viz:position>
         <viz:color r="83" g="60" b="160"></viz:color>
       </node>
       <node id="Sociology of education" label="Sociology of education">
@@ -838,8 +838,8 @@
           <attvalue for="modularity_class" value="8"></attvalue>
           <attvalue for="pageranks" value="0.0019104931730458694"></attvalue>
         </attvalues>
-        <viz:size value="11.39584"></viz:size>
-        <viz:position x="827.42145" y="149.5243" z="0.0"></viz:position>
+        <viz:size value="6.749802"></viz:size>
+        <viz:position x="482.37473" y="-3.2402203" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="60"></viz:color>
       </node>
       <node id="Social research" label="Social research">
@@ -847,8 +847,8 @@
           <attvalue for="modularity_class" value="8"></attvalue>
           <attvalue for="pageranks" value="0.00799687071701266"></attvalue>
         </attvalues>
-        <viz:size value="24.342775"></viz:size>
-        <viz:position x="513.0878" y="177.27744" z="0.0"></viz:position>
+        <viz:size value="32.255245"></viz:size>
+        <viz:position x="297.8644" y="31.47368" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="60"></viz:color>
       </node>
       <node id="Ethnic studies" label="Ethnic studies">
@@ -856,8 +856,8 @@
           <attvalue for="modularity_class" value="8"></attvalue>
           <attvalue for="pageranks" value="0.001604787927685555"></attvalue>
         </attvalues>
-        <viz:size value="10.7455435"></viz:size>
-        <viz:position x="844.8589" y="224.20709" z="0.0"></viz:position>
+        <viz:size value="5.4687195"></viz:size>
+        <viz:position x="496.16483" y="33.698914" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="60"></viz:color>
       </node>
       <node id="Social psychology" label="Social psychology">
@@ -865,8 +865,8 @@
           <attvalue for="modularity_class" value="8"></attvalue>
           <attvalue for="pageranks" value="0.010937116646710182"></attvalue>
         </attvalues>
-        <viz:size value="30.597263"></viz:size>
-        <viz:position x="674.0445" y="299.43533" z="0.0"></viz:position>
+        <viz:size value="44.576576"></viz:size>
+        <viz:position x="453.8826" y="126.64613" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="60"></viz:color>
       </node>
       <node id="Pathology" label="Pathology">
@@ -874,8 +874,8 @@
           <attvalue for="modularity_class" value="9"></attvalue>
           <attvalue for="pageranks" value="0.005756255439135355"></attvalue>
         </attvalues>
-        <viz:size value="19.57654"></viz:size>
-        <viz:position x="-637.90137" y="218.74577" z="0.0"></viz:position>
+        <viz:size value="22.865768"></viz:size>
+        <viz:position x="-423.82236" y="168.54366" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="95"></viz:color>
       </node>
       <node id="Veterinary medicine" label="Veterinary medicine">
@@ -883,8 +883,8 @@
           <attvalue for="modularity_class" value="9"></attvalue>
           <attvalue for="pageranks" value="0.01161513572133965"></attvalue>
         </attvalues>
-        <viz:size value="32.039543"></viz:size>
-        <viz:position x="-653.8136" y="301.9288" z="0.0"></viz:position>
+        <viz:size value="47.417866"></viz:size>
+        <viz:position x="-376.67587" y="236.62282" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="95"></viz:color>
       </node>
       <node id="Fisheries and aquatic sciences" label="Fisheries and aquatic sciences">
@@ -892,8 +892,8 @@
           <attvalue for="modularity_class" value="10"></attvalue>
           <attvalue for="pageranks" value="0.007367490683497508"></attvalue>
         </attvalues>
-        <viz:size value="23.00396"></viz:size>
-        <viz:position x="-424.8459" y="95.30354" z="0.0"></viz:position>
+        <viz:size value="29.61778"></viz:size>
+        <viz:position x="-296.8411" y="23.804878" z="0.0"></viz:position>
         <viz:color r="60" g="107" b="160"></viz:color>
       </node>
       <node id="Wildlife conservation" label="Wildlife conservation">
@@ -901,8 +901,8 @@
           <attvalue for="modularity_class" value="10"></attvalue>
           <attvalue for="pageranks" value="0.0073089405850085415"></attvalue>
         </attvalues>
-        <viz:size value="22.87941"></viz:size>
-        <viz:position x="-431.2162" y="-74.793884" z="0.0"></viz:position>
+        <viz:size value="29.372417"></viz:size>
+        <viz:position x="-313.40646" y="-149.9292" z="0.0"></viz:position>
         <viz:color r="60" g="107" b="160"></viz:color>
       </node>
       <node id="Morphology" label="Morphology">
@@ -910,8 +910,8 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="pageranks" value="0.0020064584396775166"></attvalue>
         </attvalues>
-        <viz:size value="11.599977"></viz:size>
-        <viz:position x="-260.87057" y="-273.65756" z="0.0"></viz:position>
+        <viz:size value="7.1519513"></viz:size>
+        <viz:position x="-103.7051" y="-257.73907" z="0.0"></viz:position>
         <viz:color r="60" g="160" b="107"></viz:color>
       </node>
       <node id="Economic theory" label="Economic theory">
@@ -919,8 +919,8 @@
           <attvalue for="modularity_class" value="11"></attvalue>
           <attvalue for="pageranks" value="0.006538221006474764"></attvalue>
         </attvalues>
-        <viz:size value="21.239937"></viz:size>
-        <viz:position x="322.58844" y="-309.01675" z="0.0"></viz:position>
+        <viz:size value="26.142658"></viz:size>
+        <viz:position x="203.35623" y="-263.6866" z="0.0"></viz:position>
         <viz:color r="60" g="72" b="160"></viz:color>
       </node>
       <node id="Economics" label="Economics">
@@ -928,8 +928,8 @@
           <attvalue for="modularity_class" value="11"></attvalue>
           <attvalue for="pageranks" value="0.010945720356064323"></attvalue>
         </attvalues>
-        <viz:size value="30.615562"></viz:size>
-        <viz:position x="216.09009" y="-242.42606" z="0.0"></viz:position>
+        <viz:size value="44.612625"></viz:size>
+        <viz:position x="144.82092" y="-212.59036" z="0.0"></viz:position>
         <viz:color r="60" g="72" b="160"></viz:color>
       </node>
       <node id="Nutrition" label="Nutrition">
@@ -937,8 +937,8 @@
           <attvalue for="modularity_class" value="12"></attvalue>
           <attvalue for="pageranks" value="0.005665586270019784"></attvalue>
         </attvalues>
-        <viz:size value="19.38367"></viz:size>
-        <viz:position x="-361.46207" y="564.7375" z="0.0"></viz:position>
+        <viz:size value="22.485817"></viz:size>
+        <viz:position x="-169.69724" y="381.01852" z="0.0"></viz:position>
         <viz:color r="60" g="142" b="160"></viz:color>
       </node>
       <node id="Immunology" label="Immunology">
@@ -946,8 +946,8 @@
           <attvalue for="modularity_class" value="12"></attvalue>
           <attvalue for="pageranks" value="0.0112649872049928"></attvalue>
         </attvalues>
-        <viz:size value="31.294708"></viz:size>
-        <viz:position x="-461.79337" y="506.38232" z="0.0"></viz:position>
+        <viz:size value="45.950542"></viz:size>
+        <viz:position x="-252.09679" y="338.2696" z="0.0"></viz:position>
         <viz:color r="60" g="142" b="160"></viz:color>
       </node>
       <node id="Physical anthropology" label="Physical anthropology">
@@ -955,8 +955,8 @@
           <attvalue for="modularity_class" value="13"></attvalue>
           <attvalue for="pageranks" value="0.006622516550123694"></attvalue>
         </attvalues>
-        <viz:size value="21.41925"></viz:size>
-        <viz:position x="1631.6198" y="873.33014" z="0.0"></viz:position>
+        <viz:size value="26.495907"></viz:size>
+        <viz:position x="778.55426" y="382.79272" z="0.0"></viz:position>
         <viz:color r="160" g="95" b="60"></viz:color>
       </node>
       <node id="Archaeology" label="Archaeology">
@@ -964,8 +964,8 @@
           <attvalue for="modularity_class" value="13"></attvalue>
           <attvalue for="pageranks" value="0.006622516550123694"></attvalue>
         </attvalues>
-        <viz:size value="21.41925"></viz:size>
-        <viz:position x="1806.5128" y="750.5062" z="0.0"></viz:position>
+        <viz:size value="26.495907"></viz:size>
+        <viz:position x="899.3124" y="311.7059" z="0.0"></viz:position>
         <viz:color r="160" g="95" b="60"></viz:color>
       </node>
       <node id="Analytical chemistry" label="Analytical chemistry">
@@ -973,8 +973,8 @@
           <attvalue for="modularity_class" value="5"></attvalue>
           <attvalue for="pageranks" value="0.006257205950318853"></attvalue>
         </attvalues>
-        <viz:size value="20.64216"></viz:size>
-        <viz:position x="-2267.1384" y="-329.8308" z="0.0"></viz:position>
+        <viz:size value="24.96504"></viz:size>
+        <viz:position x="-1144.7365" y="-540.69006" z="0.0"></viz:position>
         <viz:color r="154" g="60" b="160"></viz:color>
       </node>
       <node id="Personality psychology" label="Personality psychology">
@@ -982,8 +982,8 @@
           <attvalue for="modularity_class" value="8"></attvalue>
           <attvalue for="pageranks" value="0.0019575814686829318"></attvalue>
         </attvalues>
-        <viz:size value="11.496006"></viz:size>
-        <viz:position x="781.4817" y="385.42978" z="0.0"></viz:position>
+        <viz:size value="6.9471292"></viz:size>
+        <viz:position x="522.0908" y="177.50893" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="60"></viz:color>
       </node>
       <node id="Environmental studies" label="Environmental studies">
@@ -991,8 +991,8 @@
           <attvalue for="modularity_class" value="8"></attvalue>
           <attvalue for="pageranks" value="0.0019575814686829318"></attvalue>
         </attvalues>
-        <viz:size value="11.496006"></viz:size>
-        <viz:position x="803.4714" y="334.93698" z="0.0"></viz:position>
+        <viz:size value="6.9471292"></viz:size>
+        <viz:position x="535.77515" y="146.1592" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="60"></viz:color>
       </node>
       <node id="Business" label="Business">
@@ -1000,8 +1000,8 @@
           <attvalue for="modularity_class" value="8"></attvalue>
           <attvalue for="pageranks" value="0.003330722828419787"></attvalue>
         </attvalues>
-        <viz:size value="14.41695"></viz:size>
-        <viz:position x="612.4245" y="575.5921" z="0.0"></viz:position>
+        <viz:size value="12.7013855"></viz:size>
+        <viz:position x="345.51038" y="368.0263" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="60"></viz:color>
       </node>
       <node id="American history" label="American history">
@@ -1009,8 +1009,8 @@
           <attvalue for="modularity_class" value="14"></attvalue>
           <attvalue for="pageranks" value="0.009150457621547273"></attvalue>
         </attvalues>
-        <viz:size value="26.796682"></viz:size>
-        <viz:position x="2034.7417" y="434.68576" z="0.0"></viz:position>
+        <viz:size value="37.08944"></viz:size>
+        <viz:position x="1233.2212" y="92.221405" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="130"></viz:color>
       </node>
       <node id="Native American studies" label="Native American studies">
@@ -1018,8 +1018,8 @@
           <attvalue for="modularity_class" value="14"></attvalue>
           <attvalue for="pageranks" value="0.003112871524146598"></attvalue>
         </attvalues>
-        <viz:size value="13.953537"></viz:size>
-        <viz:position x="1949.6437" y="526.0001" z="0.0"></viz:position>
+        <viz:size value="11.788462"></viz:size>
+        <viz:position x="1226.2987" y="153.36444" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="130"></viz:color>
       </node>
       <node id="American studies" label="American studies">
@@ -1027,8 +1027,8 @@
           <attvalue for="modularity_class" value="14"></attvalue>
           <attvalue for="pageranks" value="0.013967418903922101"></attvalue>
         </attvalues>
-        <viz:size value="37.043316"></viz:size>
-        <viz:position x="2130.725" y="494.25388" z="0.0"></viz:position>
+        <viz:size value="57.27529"></viz:size>
+        <viz:position x="1338.5364" y="131.45184" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="130"></viz:color>
       </node>
       <node id="Transportation planning" label="Transportation planning">
@@ -1036,8 +1036,8 @@
           <attvalue for="modularity_class" value="15"></attvalue>
           <attvalue for="pageranks" value="0.006622516550123694"></attvalue>
         </attvalues>
-        <viz:size value="21.41925"></viz:size>
-        <viz:position x="-45.47554" y="-956.3287" z="0.0"></viz:position>
+        <viz:size value="26.495907"></viz:size>
+        <viz:position x="-383.9043" y="-481.355" z="0.0"></viz:position>
         <viz:color r="60" g="160" b="72"></viz:color>
       </node>
       <node id="Urban planning" label="Urban planning">
@@ -1045,8 +1045,8 @@
           <attvalue for="modularity_class" value="15"></attvalue>
           <attvalue for="pageranks" value="0.006622516550123694"></attvalue>
         </attvalues>
-        <viz:size value="21.41925"></viz:size>
-        <viz:position x="180.6435" y="-1038.478" z="0.0"></viz:position>
+        <viz:size value="26.495907"></viz:size>
+        <viz:position x="-241.34239" y="-494.89038" z="0.0"></viz:position>
         <viz:color r="60" g="160" b="72"></viz:color>
       </node>
       <node id="Animal sciences" label="Animal sciences">
@@ -1054,8 +1054,8 @@
           <attvalue for="modularity_class" value="9"></attvalue>
           <attvalue for="pageranks" value="0.008427063909510575"></attvalue>
         </attvalues>
-        <viz:size value="25.257881"></viz:size>
-        <viz:position x="-504.00702" y="249.92023" z="0.0"></viz:position>
+        <viz:size value="34.058002"></viz:size>
+        <viz:position x="-253.76668" y="128.21289" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="95"></viz:color>
       </node>
       <node id="Animal diseases" label="Animal diseases">
@@ -1063,8 +1063,8 @@
           <attvalue for="modularity_class" value="9"></attvalue>
           <attvalue for="pageranks" value="0.0017928056763159698"></attvalue>
         </attvalues>
-        <viz:size value="11.145494"></viz:size>
-        <viz:position x="-583.1551" y="368.86908" z="0.0"></viz:position>
+        <viz:size value="6.2566223"></viz:size>
+        <viz:position x="-305.07925" y="170.05501" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="95"></viz:color>
       </node>
       <node id="Toxicology" label="Toxicology">
@@ -1072,8 +1072,8 @@
           <attvalue for="modularity_class" value="9"></attvalue>
           <attvalue for="pageranks" value="0.0072209603143756325"></attvalue>
         </attvalues>
-        <viz:size value="22.692259"></viz:size>
-        <viz:position x="-483.57364" y="336.77884" z="0.0"></viz:position>
+        <viz:size value="29.00373"></viz:size>
+        <viz:position x="-273.15802" y="209.98068" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="95"></viz:color>
       </node>
       <node id="Electromagnetics" label="Electromagnetics">
@@ -1081,8 +1081,8 @@
           <attvalue for="modularity_class" value="7"></attvalue>
           <attvalue for="pageranks" value="0.0023459110262950217"></attvalue>
         </attvalues>
-        <viz:size value="12.32206"></viz:size>
-        <viz:position x="-1236.07" y="-243.9678" z="0.0"></viz:position>
+        <viz:size value="8.574453"></viz:size>
+        <viz:position x="-587.55786" y="-391.40518" z="0.0"></viz:position>
         <viz:color r="83" g="60" b="160"></viz:color>
       </node>
       <node id="Chemical engineering" label="Chemical engineering">
@@ -1090,8 +1090,8 @@
           <attvalue for="modularity_class" value="5"></attvalue>
           <attvalue for="pageranks" value="0.0071484545889858656"></attvalue>
         </attvalues>
-        <viz:size value="22.538023"></viz:size>
-        <viz:position x="-2078.4026" y="-421.25092" z="0.0"></viz:position>
+        <viz:size value="28.699886"></viz:size>
+        <viz:position x="-1019.401" y="-581.4071" z="0.0"></viz:position>
         <viz:color r="154" g="60" b="160"></viz:color>
       </node>
       <node id="Energy" label="Energy">
@@ -1099,8 +1099,8 @@
           <attvalue for="modularity_class" value="5"></attvalue>
           <attvalue for="pageranks" value="0.0016133536630351464"></attvalue>
         </attvalues>
-        <viz:size value="10.763764"></viz:size>
-        <viz:position x="-2160.7207" y="-375.74124" z="0.0"></viz:position>
+        <viz:size value="5.504615"></viz:size>
+        <viz:position x="-1081.2803" y="-549.75397" z="0.0"></viz:position>
         <viz:color r="154" g="60" b="160"></viz:color>
       </node>
       <node id="Inorganic chemistry" label="Inorganic chemistry">
@@ -1108,8 +1108,8 @@
           <attvalue for="modularity_class" value="5"></attvalue>
           <attvalue for="pageranks" value="0.0016133536630351464"></attvalue>
         </attvalues>
-        <viz:size value="10.763764"></viz:size>
-        <viz:position x="-2013.292" y="-206.41217" z="0.0"></viz:position>
+        <viz:size value="5.504615"></viz:size>
+        <viz:position x="-1154.1567" y="-398.24234" z="0.0"></viz:position>
         <viz:color r="154" g="60" b="160"></viz:color>
       </node>
       <node id="Wildlife management" label="Wildlife management">
@@ -1117,8 +1117,8 @@
           <attvalue for="modularity_class" value="10"></attvalue>
           <attvalue for="pageranks" value="0.005929767176383148"></attvalue>
         </attvalues>
-        <viz:size value="19.945635"></viz:size>
-        <viz:position x="-375.83032" y="-100.0452" z="0.0"></viz:position>
+        <viz:size value="23.592886"></viz:size>
+        <viz:position x="-260.13696" y="-182.38951" z="0.0"></viz:position>
         <viz:color r="60" g="107" b="160"></viz:color>
       </node>
       <node id="Physiology" label="Physiology">
@@ -1126,8 +1126,8 @@
           <attvalue for="modularity_class" value="12"></attvalue>
           <attvalue for="pageranks" value="0.007515351892138863"></attvalue>
         </attvalues>
-        <viz:size value="23.318487"></viz:size>
-        <viz:position x="-121.39786" y="552.8926" z="0.0"></viz:position>
+        <viz:size value="30.2374"></viz:size>
+        <viz:position x="-31.985283" y="369.74414" z="0.0"></viz:position>
         <viz:color r="60" g="142" b="160"></viz:color>
       </node>
       <node id="Pharmacology" label="Pharmacology">
@@ -1135,8 +1135,8 @@
           <attvalue for="modularity_class" value="12"></attvalue>
           <attvalue for="pageranks" value="0.002377445562334016"></attvalue>
         </attvalues>
-        <viz:size value="12.38914"></viz:size>
-        <viz:position x="-122.20507" y="653.29297" z="0.0"></viz:position>
+        <viz:size value="8.706602"></viz:size>
+        <viz:position x="-25.08002" y="432.81274" z="0.0"></viz:position>
         <viz:color r="60" g="142" b="160"></viz:color>
       </node>
       <node id="Information technology" label="Information technology">
@@ -1144,8 +1144,8 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="pageranks" value="0.004555568445533442"></attvalue>
         </attvalues>
-        <viz:size value="17.02244"></viz:size>
-        <viz:position x="-149.92276" y="-577.31635" z="0.0"></viz:position>
+        <viz:size value="17.834196"></viz:size>
+        <viz:position x="87.965034" y="-491.58527" z="0.0"></viz:position>
         <viz:color r="60" g="160" b="107"></viz:color>
       </node>
       <node id="Aging" label="Aging">
@@ -1153,8 +1153,8 @@
           <attvalue for="modularity_class" value="12"></attvalue>
           <attvalue for="pageranks" value="0.0016327381531848588"></attvalue>
         </attvalues>
-        <viz:size value="10.804999"></viz:size>
-        <viz:position x="-540.335" y="689.7197" z="0.0"></viz:position>
+        <viz:size value="5.5858474"></viz:size>
+        <viz:position x="-267.2408" y="444.2919" z="0.0"></viz:position>
         <viz:color r="60" g="142" b="160"></viz:color>
       </node>
       <node id="Virology" label="Virology">
@@ -1162,8 +1162,8 @@
           <attvalue for="modularity_class" value="12"></attvalue>
           <attvalue for="pageranks" value="0.0019524185087633462"></attvalue>
         </attvalues>
-        <viz:size value="11.4850235"></viz:size>
-        <viz:position x="-580.4223" y="611.57837" z="0.0"></viz:position>
+        <viz:size value="6.925494"></viz:size>
+        <viz:position x="-290.97495" y="415.62543" z="0.0"></viz:position>
         <viz:color r="60" g="142" b="160"></viz:color>
       </node>
       <node id="Teacher education" label="Teacher education">
@@ -1171,8 +1171,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.012503965658237574"></attvalue>
         </attvalues>
-        <viz:size value="33.93026"></viz:size>
-        <viz:position x="1238.2334" y="-514.50757" z="0.0"></viz:position>
+        <viz:size value="51.142574"></viz:size>
+        <viz:position x="725.2374" y="-319.17236" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Counseling psychology" label="Counseling psychology">
@@ -1180,8 +1180,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.0013812776538831993"></attvalue>
         </attvalues>
-        <viz:size value="10.270093"></viz:size>
-        <viz:position x="906.4695" y="-120.591866" z="0.0"></viz:position>
+        <viz:size value="4.5320826"></viz:size>
+        <viz:position x="534.90314" y="-35.81546" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Special education" label="Special education">
@@ -1189,8 +1189,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.0013812776538831993"></attvalue>
         </attvalues>
-        <viz:size value="10.270093"></viz:size>
-        <viz:position x="931.4771" y="-432.0957" z="0.0"></viz:position>
+        <viz:size value="4.5320826"></viz:size>
+        <viz:position x="633.67926" y="-76.337685" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Marketing" label="Marketing">
@@ -1198,8 +1198,8 @@
           <attvalue for="modularity_class" value="1"></attvalue>
           <attvalue for="pageranks" value="0.00505892128460483"></attvalue>
         </attvalues>
-        <viz:size value="18.093172"></viz:size>
-        <viz:position x="204.72379" y="-613.1786" z="0.0"></viz:position>
+        <viz:size value="19.943537"></viz:size>
+        <viz:position x="136.28343" y="-456.666" z="0.0"></viz:position>
         <viz:color r="60" g="160" b="107"></viz:color>
       </node>
       <node id="Music" label="Music">
@@ -1207,8 +1207,8 @@
           <attvalue for="modularity_class" value="14"></attvalue>
           <attvalue for="pageranks" value="0.006131545987055982"></attvalue>
         </attvalues>
-        <viz:size value="20.374857"></viz:size>
-        <viz:position x="2130.3057" y="569.0764" z="0.0"></viz:position>
+        <viz:size value="24.438452"></viz:size>
+        <viz:position x="1341.9318" y="222.11455" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="130"></viz:color>
       </node>
       <node id="Agriculture engineering" label="Agriculture engineering">
@@ -1216,8 +1216,8 @@
           <attvalue for="modularity_class" value="7"></attvalue>
           <attvalue for="pageranks" value="0.001802362579816307"></attvalue>
         </attvalues>
-        <viz:size value="11.165825"></viz:size>
-        <viz:position x="-1368.1748" y="-608.31244" z="0.0"></viz:position>
+        <viz:size value="6.2966733"></viz:size>
+        <viz:position x="-837.6719" y="-129.55176" z="0.0"></viz:position>
         <viz:color r="83" g="60" b="160"></viz:color>
       </node>
       <node id="Mathematics education" label="Mathematics education">
@@ -1225,8 +1225,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.010760391495866124"></attvalue>
         </attvalues>
-        <viz:size value="30.22133"></viz:size>
-        <viz:position x="1439.4192" y="-720.02924" z="0.0"></viz:position>
+        <viz:size value="43.83599"></viz:size>
+        <viz:position x="821.9651" y="-445.8663" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Curriculum development" label="Curriculum development">
@@ -1234,8 +1234,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.0033321120133991402"></attvalue>
         </attvalues>
-        <viz:size value="14.419905"></viz:size>
-        <viz:position x="1460.3444" y="-637.45154" z="0.0"></viz:position>
+        <viz:size value="12.707206"></viz:size>
+        <viz:position x="845.55664" y="-370.51547" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Middle school education" label="Middle school education">
@@ -1243,8 +1243,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.003225320908665885"></attvalue>
         </attvalues>
-        <viz:size value="14.1927395"></viz:size>
-        <viz:position x="1436.0426" y="-791.0194" z="0.0"></viz:position>
+        <viz:size value="12.25969"></viz:size>
+        <viz:position x="869.1176" y="-505.26758" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Statistics" label="Statistics">
@@ -1252,8 +1252,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.0024813397666167748"></attvalue>
         </attvalues>
-        <viz:size value="12.610144"></viz:size>
-        <viz:position x="1403.6016" y="-844.8693" z="0.0"></viz:position>
+        <viz:size value="9.141979"></viz:size>
+        <viz:position x="898.6857" y="-466.5953" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Climate change" label="Climate change">
@@ -1261,8 +1261,8 @@
           <attvalue for="modularity_class" value="7"></attvalue>
           <attvalue for="pageranks" value="0.0024644185502110246"></attvalue>
         </attvalues>
-        <viz:size value="12.574148"></viz:size>
-        <viz:position x="-1021.3064" y="-616.74243" z="0.0"></viz:position>
+        <viz:size value="9.071068"></viz:size>
+        <viz:position x="-782.71826" y="144.81555" z="0.0"></viz:position>
         <viz:color r="83" g="60" b="160"></viz:color>
       </node>
       <node id="Environmental health" label="Environmental health">
@@ -1270,8 +1270,8 @@
           <attvalue for="modularity_class" value="7"></attvalue>
           <attvalue for="pageranks" value="0.0024644185502110246"></attvalue>
         </attvalues>
-        <viz:size value="12.574148"></viz:size>
-        <viz:position x="-971.2984" y="-594.85706" z="0.0"></viz:position>
+        <viz:size value="9.071068"></viz:size>
+        <viz:position x="-752.03284" y="175.50601" z="0.0"></viz:position>
         <viz:color r="83" g="60" b="160"></viz:color>
       </node>
       <node id="Physical chemistry" label="Physical chemistry">
@@ -1279,8 +1279,8 @@
           <attvalue for="modularity_class" value="5"></attvalue>
           <attvalue for="pageranks" value="0.00217220150710934"></attvalue>
         </attvalues>
-        <viz:size value="11.952545"></viz:size>
-        <viz:position x="-2424.097" y="-197.27579" z="0.0"></viz:position>
+        <viz:size value="7.846511"></viz:size>
+        <viz:position x="-1299.9242" y="-598.48444" z="0.0"></viz:position>
         <viz:color r="154" g="60" b="160"></viz:color>
       </node>
       <node id="Elementary education" label="Elementary education">
@@ -1288,8 +1288,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.0018441497293009194"></attvalue>
         </attvalues>
-        <viz:size value="11.254714"></viz:size>
-        <viz:position x="1434.9531" y="-541.654" z="0.0"></viz:position>
+        <viz:size value="6.4717846"></viz:size>
+        <viz:position x="818.7097" y="-318.48386" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Music education" label="Music education">
@@ -1297,8 +1297,8 @@
           <attvalue for="modularity_class" value="4"></attvalue>
           <attvalue for="pageranks" value="0.0018441497293009194"></attvalue>
         </attvalues>
-        <viz:size value="11.254714"></viz:size>
-        <viz:position x="1318.3185" y="-608.27594" z="0.0"></viz:position>
+        <viz:size value="6.4717846"></viz:size>
+        <viz:position x="805.75714" y="-352.4757" z="0.0"></viz:position>
         <viz:color r="119" g="60" b="160"></viz:color>
       </node>
       <node id="Religious history" label="Religious history">
@@ -1306,8 +1306,8 @@
           <attvalue for="modularity_class" value="14"></attvalue>
           <attvalue for="pageranks" value="0.002492009946260114"></attvalue>
         </attvalues>
-        <viz:size value="12.632841"></viz:size>
-        <viz:position x="2281.1448" y="457.7437" z="0.0"></viz:position>
+        <viz:size value="9.186693"></viz:size>
+        <viz:position x="1422.844" y="133.40497" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="130"></viz:color>
       </node>
       <node id="American literature" label="American literature">
@@ -1315,8 +1315,8 @@
           <attvalue for="modularity_class" value="14"></attvalue>
           <attvalue for="pageranks" value="0.002492009946260114"></attvalue>
         </attvalues>
-        <viz:size value="12.632841"></viz:size>
-        <viz:position x="2259.0842" y="542.0954" z="0.0"></viz:position>
+        <viz:size value="9.186693"></viz:size>
+        <viz:position x="1402.3146" y="186.66714" z="0.0"></viz:position>
         <viz:color r="160" g="60" b="130"></viz:color>
       </node>
       <node id="Nuclear physics" label="Nuclear physics">
@@ -1324,8 +1324,8 @@
           <attvalue for="modularity_class" value="16"></attvalue>
           <attvalue for="pageranks" value="0.006622516550123694"></attvalue>
         </attvalues>
-        <viz:size value="21.41925"></viz:size>
-        <viz:position x="723.3513" y="-928.8703" z="0.0"></viz:position>
+        <viz:size value="26.495907"></viz:size>
+        <viz:position x="593.7396" y="-554.80066" z="0.0"></viz:position>
         <viz:color r="160" g="130" b="60"></viz:color>
       </node>
       <node id="Astrophysics" label="Astrophysics">
@@ -1333,8 +1333,8 @@
           <attvalue for="modularity_class" value="16"></attvalue>
           <attvalue for="pageranks" value="0.006622516550123694"></attvalue>
         </attvalues>
-        <viz:size value="21.41925"></viz:size>
-        <viz:position x="599.4101" y="-1000.34216" z="0.0"></viz:position>
+        <viz:size value="26.495907"></viz:size>
+        <viz:position x="430.42532" y="-548.37354" z="0.0"></viz:position>
         <viz:color r="160" g="130" b="60"></viz:color>
       </node>
       <node id="Economics - Labor" label="Economics - Labor">
@@ -1342,8 +1342,8 @@
           <attvalue for="modularity_class" value="11"></attvalue>
           <attvalue for="pageranks" value="0.0017854980533895315"></attvalue>
         </attvalues>
-        <viz:size value="11.12995"></viz:size>
-        <viz:position x="250.14476" y="-355.3705" z="0.0"></viz:position>
+        <viz:size value="6.225999"></viz:size>
+        <viz:position x="152.52846" y="-284.32843" z="0.0"></viz:position>
         <viz:color r="60" g="72" b="160"></viz:color>
       </node>
       <node id="Alternative energy" label="Alternative energy">
@@ -1351,8 +1351,8 @@
           <attvalue for="modularity_class" value="5"></attvalue>
           <attvalue for="pageranks" value="0.0029975699526323995"></attvalue>
         </attvalues>
-        <viz:size value="13.708267"></viz:size>
-        <viz:position x="-2116.8574" y="-477.6491" z="0.0"></viz:position>
+        <viz:size value="11.305281"></viz:size>
+        <viz:position x="-1035.432" y="-632.7415" z="0.0"></viz:position>
         <viz:color r="154" g="60" b="160"></viz:color>
       </node>
       <node id="Limnology" label="Limnology">
@@ -1360,8 +1360,8 @@
           <attvalue for="modularity_class" value="10"></attvalue>
           <attvalue for="pageranks" value="0.0012543064038416435"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-484.46555" y="-216.60777" z="0.0"></viz:position>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-260.5732" y="-240.38965" z="0.0"></viz:position>
         <viz:color r="60" g="107" b="160"></viz:color>
       </node>
       <node id="Psychobiology" label="Psychobiology">
@@ -1369,8 +1369,8 @@
           <attvalue for="modularity_class" value="12"></attvalue>
           <attvalue for="pageranks" value="0.001782960112870188"></attvalue>
         </attvalues>
-        <viz:size value="11.124552"></viz:size>
-        <viz:position x="92.174065" y="607.0315" z="0.0"></viz:position>
+        <viz:size value="6.2153654"></viz:size>
+        <viz:position x="100.006256" y="371.77267" z="0.0"></viz:position>
         <viz:color r="60" g="142" b="160"></viz:color>
       </node>
     </nodes>
